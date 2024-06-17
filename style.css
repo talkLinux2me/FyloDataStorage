@@ -45,6 +45,13 @@ body{
     background-color: hsl(229, 57%, 11%);
 }
 
+.containerBar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
 .progress{
     width: 40%;
     height: 10px;
