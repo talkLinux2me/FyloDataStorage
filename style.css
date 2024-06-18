@@ -61,9 +61,12 @@ body{
 #textContainer{
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    word-wrap: normal;
     align-items: center;
     text-align: left;
     background-color: hsl(228, 56%, 26%);
     text-size-adjust: 14p;
+    color: white;
 
 }
