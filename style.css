@@ -16,6 +16,8 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    width: 100%;
+    height: 100%;
     
 }
 #logos {
@@ -25,35 +27,38 @@ body{
     justify-content: center;
     align-items: center;
     width: 500px;
-    height: 150px;
+    height: 250px;
     border-radius: 15px 50px 30px 5px;
 }
 
 #icons {
     display: flex;
     justify-content: space-around;
+    margin-top: 40px;
     /* align-items: center; */
 }
 
 
 #fylo{
-    width: 300px;
-    height: 100px;
+    width: 270px;
+    height: 75px;
+    
 }
 
 .img{
-    margin: 0px 20px 0px 20px;
+    margin: 0px 40px 0px 40px;
     background-color: hsl(229, 57%, 11%);
 }
 .bubble {
     display: flex;
-    background-color: #fff;
+    background-color: white;
     width: 15%;
     padding:10px;
     margin: 30px;
     font-size: 16px;
+    color:hsl(228, 56%, 26%);
     border-radius: 15px;
-
+    margin-left: 70%;
   }
 
 .containerBar{
@@ -66,20 +71,24 @@ body{
 .progress{
     display: flex;
     justify-content: left;
-    width: 40%;
+    width: 80%;
     height: 10px;
-    margin-top: 5%;
+    /* margin-top: 5%; */
 }
 #textContainer{
     display: flex;
-    justify-content: center;
     flex-direction: column;
-    word-wrap: normal;
+    
     align-items: center;
     background-color: hsl(228, 56%, 26%);
-    text-size-adjust: 14p;
     color: white;
-    margin-left: 20%;
-    width: 150%;
+    margin-left: 20px;
+    width: 700px;
+    height: 200px;
+
+}
+
+#GB{
+    margin-right: 280px;
 
 }
