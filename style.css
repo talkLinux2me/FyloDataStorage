@@ -53,15 +53,16 @@ body{
 }
 
 .progress{
+    display: flex;
+    justify-content: left;
     width: 40%;
     height: 10px;
-    background-color: hsl(6, 100%, 80%) to hsl(335, 100%, 65%);
 }
 #textContainer{
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center;
+    text-align: left;
     background-color: hsl(228, 56%, 26%);
     text-size-adjust: 14p;
 
