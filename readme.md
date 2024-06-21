@@ -26,8 +26,7 @@ C:\Users\jennifer.falco\Pictures\Screenshots\Screenshot 2024-06-21 100434.png
 
 Links
 Solution URL: Add solution URL here
-Live Site URL: Add live site URL here
-My process
+
 Built with
 Semantic HTML5 markup
 CSS custom properties
