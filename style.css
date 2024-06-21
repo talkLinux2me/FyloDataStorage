@@ -30,21 +30,12 @@ body{
     height: 250px;
     border-radius: 15px 50px 30px 5px;
 }
-/* .progress{
-    width: 15%;
-    background-image: linear-gradient(hsl(6, 100%, 80%), hsl(335, 100%, 65%));
-    padding: 2px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-end;
-    border-radius: 16px;
-}   */
+
 #icons {
     display: flex;
     justify-content: space-around;
     margin-top: 40px;
-    /* align-items: center; */
+    
 }
 
 
